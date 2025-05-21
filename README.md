@@ -30,7 +30,7 @@ Para utilizar o componente `Pontos`, basta importá-lo e utilizá-lo com as prop
 ```jsx
 import React from 'react';
 import { View } from 'react-native';
-import Pontos from 'react-native-gustavino-dominino';
+import { Pontos } from 'react-native-gustavino-dominino';
 
 export default function App() {
   return (
