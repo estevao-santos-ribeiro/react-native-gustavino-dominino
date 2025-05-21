@@ -18,7 +18,7 @@ Componente visual simples e elegante que exibe pontos (semelhantes aos de um dad
 ```bash
 npm install react-native-gustavino-dominino
 ```
-# ou
+## ou
 ```bash
 yarn add react-native-gustavino-dominino
 ```
